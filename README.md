@@ -75,7 +75,7 @@
 - ✅ Leave management & notifications  
 - ✅ Secure login & provisioning with Keycloak  
 
-🔗 **Repo:** https://github.com/badgesApp
+🔗 **Repo:** https://github.com/hamza-lzr/badgesApp
 </details>
 
 <details>
@@ -88,7 +88,7 @@
 - ✅ Sprint planning & prioritization  
 - ✅ Roles: Admin, Product Owner, Scrum Master  
 
-🔗 **Repo:** https://github.com/Agile_Management_App
+🔗 **Repo:** https://github.com/hamza-lzr/Agile_Management_App
 </details>
 
 <details>
@@ -100,7 +100,7 @@
 - ✅ Sections: Hero, Services, Projects, Team, About, Footer  
 - ✅ API integration with backend services  
 
-🔗 **Repo:** https://github.com/ralydev_crud_frontend
+
 </details>
 
 ---
