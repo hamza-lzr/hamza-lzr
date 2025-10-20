@@ -6,9 +6,10 @@
 
 <!-- Quick badges -->
 <p>
-  <a href="mailto:lazaarhamza@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lazaarhamza%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hamza-lazaar-19330a329" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza%20Lazaar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=hamza-lzr&label=Visits&style=for-the-badge">
+    <a href="https://www.linkedin.com/in/hamza-lazaar-19330a329"><img alt="Status" src="https://img.shields.io/badge/Status-Seeking_PFE_Internship-brightgreen?style=for-the-badge&logo=rocket&logoColor=white"></a>
+  <a href="mailto:lazaarhamza@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lazaarhamza%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hamza-lazaar-19330a329" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza%20Lazaar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=hamza-lzr&label=Visits&style=for-the-badge">
 </p>
 
 <!-- Gradient divider -->
@@ -65,42 +66,42 @@
 ## 🌟 Featured Projects
 
 <details open>
-<summary><b>🔴 Badge Management System (Royal Air Maroc)</b></summary>
+<summary><b>🔴 Badge Management System (Royal Air Maroc)</b> | Spring Boot, React, Keycloak</summary>
 
-> Full-stack system for employee badges, airport access, and leave requests.  
+> Full-stack system for employee badges, airport access, and leave requests.  
 **Tech:** Spring Boot, PostgreSQL, React/TypeScript, Keycloak IAM
 
-- ✅ Role-based portals (Admin, Employee)  
-- ✅ Badge request & approval workflow  
-- ✅ Leave management & notifications  
-- ✅ Secure login & provisioning with Keycloak  
+- ✅ Role-based portals (Admin, Employee)  
+- ✅ Badge request & approval workflow  
+- ✅ Leave management & notifications  
+- ✅ Secure login & provisioning with Keycloak  
 
 🔗 **Repo:** https://github.com/hamza-lzr/badgesApp
 </details>
 
 <details>
-<summary><b>📊 Agile Project Management Tool</b></summary>
+<summary><b>📊 Agile Project Management Tool</b> | Spring Boot, React, JWT, JUnit</summary>
 
-> Scrum tool with **Product Backlog**, **Sprint Backlog**, and **role-based auth**.  
+> Scrum tool with **Product Backlog**, **Sprint Backlog**, and **role-based auth**.  
 **Tech:** Spring Boot, React, PostgreSQL, JWT, JUnit & Mockito
 
-- ✅ CRUD for Epics, User Stories, Tasks  
-- ✅ Sprint planning & prioritization  
-- ✅ Roles: Admin, Product Owner, Scrum Master  
+- ✅ CRUD for Epics, User Stories, Tasks  
+- ✅ Sprint planning & prioritization  
+- ✅ Roles: Admin, Product Owner, Scrum Master  
 
 🔗 **Repo:** https://github.com/hamza-lzr/Agile_Management_App
 </details>
 
 <details>
-<summary><b>🌐 Ralydev Technology Website</b></summary>
+<summary><b>🌐 Ralydev Technology Website</b> | React, TypeScript, Framer Motion</summary>
 
-> Corporate website with modern, minimal design & animated React components.  
+> Corporate website with modern, minimal design & animated React components.  
 **Tech:** React, TypeScript, Framer Motion, Spring Boot
 
-- ✅ Sections: Hero, Services, Projects, Team, About, Footer  
-- ✅ API integration with backend services  
+- ✅ Sections: Hero, Services, Projects, Team, About, Footer  
+- ✅ API integration with backend services  
 
-
+🔗 **Repo:** [ADD YOUR GITHUB REPO LINK HERE]
 </details>
 
 ---
