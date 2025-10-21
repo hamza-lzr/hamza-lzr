@@ -101,7 +101,6 @@
 - ✅ Sections: Hero, Services, Projects, Team, About, Footer  
 - ✅ API integration with backend services  
 
-🔗 **Repo:** [ADD YOUR GITHUB REPO LINK HERE]
 </details>
 
 ---
