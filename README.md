@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated typing headline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=700&lines=Hi+there%2C+I'm+Hamza+Lazaar+%F0%9F%91%8B;Full-Stack+Developer+%7C+Java+Enthusiast;Software+Engineering+Student+|+Seeking+PFE+Internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=700&lines=Hi+there%2C+I'm+Hamza+Lazaar+%F0%9F%91%8B;Full-Stack+Developer+%7C+Java+Enthusiast;Software+Engineering+Student" alt="Typing SVG" />
 
 <!-- Quick badges -->
 <p>
@@ -21,7 +21,7 @@
 
 💻 **Aspiring Software Engineer | Full-Stack Developer | Java Enthusiast**  
 🚀 Building enterprise apps with **Spring Boot** + **React/TypeScript**  
-🎓 Studying **Software Engineering @ ENSA Agadir | Seeking PFE Internship**
+🎓 Studying **Software Engineering @ ENSA Agadir**
 
 ---
 
@@ -49,8 +49,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=1a1a1a)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Security & Auth**  
 ![Keycloak](https://img.shields.io/badge/Keycloak-343A40?style=for-the-badge&logo=keycloak&logoColor=white)
@@ -60,6 +59,8 @@
 **Testing**  
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=java&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
 
 ---
 
@@ -76,7 +77,9 @@
 - ✅ Leave management & notifications  
 - ✅ Secure login & provisioning with Keycloak  
 
-🔗 **Repo:** https://github.com/hamza-lzr/badgesApp
+🔗 **Repos:** https://github.com/hamza-lzr/badgesApp
+https://github.com/hamza-lzr/badges-app-frontend
+
 </details>
 
 <details>
@@ -129,8 +132,10 @@
 ---
 
 ## 📫 Connect with Me
-- 🌐 **LinkedIn:** https://www.linkedin.com/in/hamza-lazaar-19330a329  
-- 📧 **Email:** lazaarhamza@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-lazaar-19330a329)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazaarhamza@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lazaar.netlify.app)
 
 <!-- Wavy footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6a5af9&height=120&section=footer"/>
