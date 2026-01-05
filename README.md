@@ -29,9 +29,6 @@
       💻 <b>Currently Working on:</b> Final Year Project (PFE)<br/>
       🏗️ <b>Interests:</b> System Design, CI/CD, and Code Quality
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-lzr&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" alt="Top Langs"/>
-    </td>
   </tr>
 </table>
 
