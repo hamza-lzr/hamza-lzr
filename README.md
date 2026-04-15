@@ -1,18 +1,18 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hamza%20Lazaar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Clean+Code+%26+Architecture+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=550&lines=Full-Stack+Software+Engineer;PFE+Intern+@+VOID+Agency;Architecture+%26+Clean+Code;DevOps+%26+System+Design" alt="Typing SVG" />
 
-  <br/><br/>
+  <br/>
 
   <a href="https://www.linkedin.com/in/hamza-lazaar-19330a329">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lazaarhamza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lazaarhamza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://lazaar.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -23,11 +23,15 @@
 <table>
   <tr>
     <td width="60%">
-      I am a final-year <b>Software Engineering Student</b> at <b>ENSA Agadir</b> focused on designing robust, scalable systems. I believe in <b>clean code</b>, <b>modular architecture</b>, and choosing the right tool for the job.
+      I am a final-year <b>Software Engineering Student</b> at ENSA Agadir and currently a <b>Full-Stack PFE Intern</b> at VOID Agency in Casablanca. I am passionate about crafting robust, scalable web applications, with a strong emphasis on clean architecture and system performance.
       <br/><br/>
-      🔭 <b>Current Focus:</b> Full-Stack dev & Architecture<br/>
-      💻 <b>Currently Working on:</b> Final Year Project (PFE)<br/>
-      🏗️ <b>Interests:</b> System Design, CI/CD, and Code Quality
+      🚀 <b>Current Role:</b> Full-Stack SWE Intern @ VOID Agency<br/>
+      🔭 <b>Specializing in:</b> Headless Architectures & API-First Design<br/>
+      🏗️ <b>Interests:</b> Software Design Patterns, DevOps, and Cyber Security<br/>
+      📍 <b>Location:</b> Casablanca, Morocco
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-lzr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
     </td>
   </tr>
 </table>
@@ -37,66 +41,33 @@
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="110"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><b>Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><b>Architecture & Quality</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><b>Security</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Keycloak-343A40?style=for-the-badge&logo=keycloak&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-    </td>
-  </tr>
-</table>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| 💻 **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🚀 **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white) |
+| 🗄️ **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ⚙️ **Infrastructure**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
 </div>
 
 ---
 
-### 🌟 Engineering Projects
+### 🌟 Featured Engineering Projects
 
-| Project | System Architecture & Features | Tech Stack |
+| Project & Context | Architecture & Technical Impact | Tech Stack |
 | :--- | :--- | :--- |
-| **🔴 Badge Management System**<br/>*(Royal Air Maroc)* | Designed a secure **IAM-integrated system** for airport access. Focused on role-based security patterns and efficient data modeling for high-traffic leave requests. | `Spring Boot` `React` `PostgreSQL` `Keycloak` |
-| **📊 Agile PM Tool** | Built a project management platform implementing **Scrum methodology logic**. Features complex state management for Sprints/Backlogs and comprehensive unit testing. | `Spring Boot` `React` `JWT` `JUnit` `Mockito` |
-| **🌐 Ralydev Website** | Developed a high-performance corporate site focusing on **responsive design principles**, component reusability, and smooth UI/UX animations. | `React` `TypeScript` `Framer Motion` |
+| 🏢 **Headless Web Solutions** <br>*(PFE @ VOID Agency)* | Developing scalable applications using a **Headless Architecture**. Engineering robust backend logic and optimizing **MySQL** data structures for high-performance frontend delivery. | `PHP` `MySQL` `Next.js` |
+| 🔴 **Badge Management System** <br>*(Royal Air Maroc)* | Designed a secure **IAM-integrated system** for airport access control. Implemented strict role-based security patterns for handling high-traffic requests. | `Spring Boot` `React` `PostgreSQL` |
+| 📊 **Agile PM Platform** <br>*(Academic Project)* | Built a comprehensive project management tool implementing core **Scrum methodology**. Driven by complex state management and ensured reliability with 90%+ test coverage. | `Java` `React` `JUnit` `JWT` |
 
 ---
 
-### 📊 Activity & Stats
+### 📈 Activity & Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hamza-lzr&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-lzr&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-lzr&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hamza-lzr&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0D1117" alt="streak" width="48%" />
 </div>
 
 <br/>
@@ -104,4 +75,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
