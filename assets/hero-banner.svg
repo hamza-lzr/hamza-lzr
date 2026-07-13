@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hamza Lazaar — Full-Stack Software Engineer</title>
+  <desc id="desc">Midnight teal banner with software architecture and code motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071a22"/><stop offset=".55" stop-color="#0b2630"/><stop offset="1" stop-color="#006d77"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#83c5be"/><stop offset="1" stop-color="#36bcf7"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#83c5be" stroke-opacity=".07"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1400" height="420" rx="26" fill="url(#bg)"/><rect width="1400" height="420" rx="26" fill="url(#grid)"/>
+  <circle cx="1250" cy="55" r="180" fill="#36bcf7" opacity=".06"/><circle cx="1150" cy="380" r="220" fill="#83c5be" opacity=".055"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="70" y="64" width="184" height="34" rx="17" fill="#83c5be" fill-opacity=".13" stroke="#83c5be" stroke-opacity=".35"/><circle cx="91" cy="81" r="5" fill="#69db7c"/><text x="107" y="87" fill="#d8f3f1" font-size="15" font-weight="600" letter-spacing="1">OPEN TO WORK</text>
+    <text x="70" y="174" fill="#f6fbfc" font-size="68" font-weight="750" letter-spacing="-.8">Hamza Lazaar</text><rect x="70" y="194" width="92" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="70" y="244" fill="#b8dadd" font-size="28" font-weight="500">Full-Stack Software Engineer</text><text x="70" y="291" fill="#83c5be" font-size="19" font-weight="600">JAVA  ·  SPRING BOOT  ·  REACT  ·  TYPESCRIPT</text><text x="70" y="343" fill="#8eafb4" font-size="17">Secure systems. Maintainable code. Thoughtful user experiences.</text>
+  </g>
+  <g transform="translate(885 72)">
+    <rect width="420" height="270" rx="18" fill="#06151b" stroke="#83c5be" stroke-opacity=".28" stroke-width="2"/><rect width="420" height="43" rx="18" fill="#102f38"/><path d="M0 25h420v18H0z" fill="#102f38"/><circle cx="24" cy="22" r="5" fill="#ff6b6b"/><circle cx="43" cy="22" r="5" fill="#ffd43b"/><circle cx="62" cy="22" r="5" fill="#69db7c"/><text x="151" y="28" fill="#7ba4aa" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">architecture.ts</text>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">
+      <text x="28" y="82" fill="#7ba4aa">01</text><text x="65" y="82" fill="#36bcf7">interface</text><text x="151" y="82" fill="#f6fbfc"> Engineer {</text>
+      <text x="28" y="116" fill="#7ba4aa">02</text><text x="83" y="116" fill="#83c5be">backend:</text><text x="177" y="116" fill="#ffd166"> "Spring Boot"</text><text x="307" y="116" fill="#f6fbfc">;</text>
+      <text x="28" y="150" fill="#7ba4aa">03</text><text x="83" y="150" fill="#83c5be">frontend:</text><text x="186" y="150" fill="#ffd166"> "React"</text><text x="257" y="150" fill="#f6fbfc">;</text>
+      <text x="28" y="184" fill="#7ba4aa">04</text><text x="83" y="184" fill="#83c5be">quality:</text><text x="177" y="184" fill="#ffd166"> "Automated"</text><text x="290" y="184" fill="#f6fbfc">;</text>
+      <text x="28" y="218" fill="#7ba4aa">05</text><text x="65" y="218" fill="#f6fbfc">}</text>
+    </g><path d="M314 231h59" stroke="#36bcf7" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+  </g><path d="M0 392c235-36 443 25 674 0s448-22 726 1v27H0z" fill="#06151b" fill-opacity=".55"/>
+</svg>
