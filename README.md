@@ -67,11 +67,11 @@ Built a full-stack application for badge and airport-access management, with ded
 
 `Spring Boot` `React` `PostgreSQL` `Keycloak`
 
-### 📊 Agile Project Management Platform
+### 🌐 Web Platform — Ralydev Technology
 
-Developed a project-management platform supporting core Scrum workflows, secure authentication, and comprehensive automated testing across the application.
+Developed a full-stack web platform during my PFA internship at Ralydev Technology. The solution combines a public-facing website, a JWT-secured client portal, and an administrative back office for content management and request tracking.
 
-`Java` `React` `JWT` `JUnit`
+`Java` `Spring Boot` `React` `JWT`
 
 ---
 
