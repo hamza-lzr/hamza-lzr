@@ -9,25 +9,25 @@
   <a href="https://lazaar.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-071A22?style=for-the-badge&logo=google-chrome&logoColor=83C5BE" alt="Visit my portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Open to full-stack opportunities" />
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Open to software engineering opportunities" />
 </div>
 
 ## Hello, I'm Hamza 👋
 
-I'm a **full-stack software engineer** specializing in **Java/Spring Boot** and **React/TypeScript**. I modernize business-critical applications, build secure APIs, and deliver reliable frontend experiences backed by automated testing.
+I'm a **software engineer with a full-stack background**, specializing in **Java/Spring Boot** and **React/TypeScript**. I build secure APIs, modernize business-critical applications, and develop reliable user experiences supported by automated testing.
 
-I recently graduated from **ENSA Agadir** and am completing my final month as a Full-Stack Software Engineering Intern at **VOID Agency** in Casablanca.
+I recently earned my engineering degree in **Computer Science (Génie Informatique)** from **ENSA Agadir**, after completing my end-of-studies internship at **VOID Agency** in Casablanca in July 2026.
 
-`📍 Casablanca, Morocco` · `💼 Open to opportunities` · `🎓 ENSA Agadir` · `🌍 French C2 & Advanced English`
+`📍 Casablanca, Morocco` · `💼 Open to opportunities` · `🎓 Software Engineer — ENSA Agadir` · `🌍 French C2 & Advanced English`
 
 ## Engineering highlights
 
 | | |
 | :--- | :--- |
-| **2 enterprise HR workflows** | Modernized from a legacy J2EE application to Spring Boot and React |
-| **3 professional internships** | VOID Agency, Royal Air Maroc, and Ralydev Technology |
-| **End-to-end ownership** | Backend APIs, frontend experiences, access control, and automated tests |
-| **Quality-focused delivery** | JUnit, Mockito, Vitest, Playwright, and SonarQube |
+| **2 enterprise HR workflows modernized** | Rebuilt from a legacy J2EE application using Spring Boot and React |
+| **3 professional internships** | Experience at VOID Agency, Royal Air Maroc, and Ralydev Technology |
+| **End-to-end development** | Backend APIs, frontend applications, access control, and automated tests |
+| **Quality-focused engineering** | JUnit, Mockito, Vitest, Playwright, and SonarQube |
 
 ## Selected work
 
@@ -35,9 +35,11 @@ I recently graduated from **ENSA Agadir** and am completing my final month as a 
 
 <img src="./assets/project-modernization.svg" alt="Enterprise HR process modernization architecture" width="100%" />
 
-**VOID Agency · Barid Al-Maghrib · PFE internship · 2026**
+**VOID Agency · Barid Al-Maghrib · End-of-studies internship · 2026**
 
-Modernizing two business-critical HR processes from a legacy J2EE monolith to **Spring Boot and React**, while preserving the existing Oracle schema and PL/SQL procedures. My work includes reverse-engineering complex calculation rules, rebuilding hierarchical approval workflows, implementing traceability, and managing authorization with Keycloak.
+Modernized two business-critical HR processes from a legacy J2EE monolith to **Spring Boot and React**, while preserving the existing Oracle schema and PL/SQL procedures.
+
+Reverse-engineered complex calculation rules, rebuilt hierarchical approval workflows, implemented traceability, and managed authentication and authorization with Keycloak.
 
 `Java 21` `Spring Boot 3` `React` `TypeScript` `Oracle` `PL/SQL` `Keycloak`
 
@@ -51,7 +53,7 @@ Modernizing two business-critical HR processes from a legacy J2EE monolith to **
 
 **Royal Air Maroc · Application internship · 2025**
 
-Built a full-stack application for badge and airport-access management, with dedicated administrator and employee experiences. Implemented authentication and role-based permissions through Keycloak.
+Built a full-stack application for badge and airport-access management, with dedicated administrator and employee experiences. Implemented authentication and role-based access control through Keycloak.
 
 `Spring Boot` `React` `PostgreSQL` `Keycloak`
 
@@ -124,5 +126,5 @@ Developed a platform combining a public-facing website, a JWT-secured client por
     <img src="https://img.shields.io/badge/Let's_connect-006D77?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn" />
   </a>
   <br/><br/>
-  <sub>Casablanca, Morocco · Open to full-stack software engineering opportunities</sub>
+  <sub>Casablanca, Morocco · Open to backend and full-stack software engineering opportunities</sub>
 </div>
