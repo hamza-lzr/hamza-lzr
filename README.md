@@ -57,7 +57,7 @@ Built a full-stack application for badge and airport-access management, with ded
 
 `Spring Boot` `React` `PostgreSQL` `Keycloak`
 
-> 🔒 Private enterprise project — source code and operational data are confidential.
+> **Source code:** [Frontend](https://github.com/hamza-lzr/badges-app-frontend) · [Backend](https://github.com/hamza-lzr/badgesApp)
 
 ---
 
