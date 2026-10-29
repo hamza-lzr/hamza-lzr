@@ -1,5 +1,9 @@
 <div align="center">
   <img src="./assets/hero-banner.svg" alt="Hamza Lazaar — Software Development & Business Applications" width="100%" />
+
+  <br/>
+  <a href="https://www.linkedin.com/in/hamza-lazaar1"><img src="https://img.shields.io/badge/LinkedIn-006D77?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://lazaar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-071A22?style=for-the-badge&logo=google-chrome&logoColor=83C5BE" alt="Portfolio" /></a>
 </div>
 
 # Hamza Lazaar
@@ -12,14 +16,14 @@ I am an ENSA Agadir engineering graduate with a full-stack background in **Java/
 
 I currently work as a **junior technical-functional consultant at Perenity Software**, where I am building knowledge of financial applications and asset-management processes. My onboarding includes Oracle SQL exercises, financial calculations and technical and functional presentations.
 
-## What I bring
+## 🎯 What I bring
 
 - **Business application modernization:** reverse-engineering existing rules and implementing workflows, calculations and access controls.
 - **Software development:** Spring Boot APIs, React interfaces, authentication and automated tests.
 - **SQL and data analysis:** querying business data and interpreting results in their functional context.
 - **A growing financial domain foundation:** securities transactions, portfolio valuation, acquisition cost and realized/unrealized gains and losses.
 
-## Experience
+## 💼 Experience
 
 ### Perenity Software - Junior Technical-Functional Consultant
 
@@ -48,7 +52,7 @@ Modernized two HR processes, overtime and travel allowances, from a Java EE mono
 
 Enterprise source code and business data are confidential.
 
-## Selected projects
+## 🚀 Selected projects
 
 ### Badge & Airport Access Management
 
@@ -78,18 +82,66 @@ A public website, JWT-secured client portal and administrative back office, buil
 
 Internship project; source code is not publicly available.
 
-## Technical foundation
+## 🛠️ Technical foundation
 
-| Area | Technologies and practice |
-| --- | --- |
-| Backend | Java, Spring Boot, Spring Data JPA/Hibernate, REST APIs |
-| Frontend | React, TypeScript, Tailwind CSS |
-| Data | Oracle SQL, PostgreSQL |
-| Security | Spring Security, Keycloak, OAuth2/OIDC, JWT, role-based access |
-| Testing | JUnit 5, Mockito, Vitest, Playwright, k6, SonarQube |
-| Tools and observability | Git, Maven, Docker, Linux, Swagger, Prometheus, Grafana |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Backend & APIs</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+      <img src="https://img.shields.io/badge/REST_APIs-006D77?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Data & Security</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Testing & Delivery</strong><br/><br/>
+      <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+      <img src="https://img.shields.io/badge/Mockito-558B2F?style=flat-square&logoColor=white" alt="Mockito" />
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+      <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Tools & Observability</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Business Applications</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Business_Rules-006D77?style=flat-square&logoColor=white" alt="Business Rules" />
+      <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/Financial_Processes-0B5260?style=flat-square&logoColor=white" alt="Financial Processes" />
+    </td>
+  </tr>
+</table>
 
-## How I approach a problem
+Spring Data JPA/Hibernate · OAuth2/OIDC · role-based access control
+
+## 🧭 How I approach a problem
 
 1. Understand the process and the expected business result.
 2. Make the rules explicit and inspect the relevant data.
@@ -98,5 +150,13 @@ Internship project; source code is not publicly available.
 
 **Languages:** Arabic (native), French (C2 TCF), English (advanced).
 
-[View my work](https://lazaar.netlify.app) · [Get in touch](https://www.linkedin.com/in/hamza-lazaar1)
+<div align="center">
+  <br/>
+  <strong>Let’s connect</strong>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/hamza-lazaar1"><img src="https://img.shields.io/badge/LinkedIn-006D77?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://lazaar.netlify.app"><img src="https://img.shields.io/badge/View_my_work-071A22?style=for-the-badge&logo=google-chrome&logoColor=83C5BE" alt="View my work" /></a>
+  <br/><br/>
+  <sub>Casablanca, Morocco · Software development · Business applications · SQL</sub>
+</div>
 
