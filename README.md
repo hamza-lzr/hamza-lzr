@@ -1,130 +1,102 @@
 <div align="center">
-  <img src="./assets/hero-banner.svg" alt="Hamza Lazaar — Full-Stack Software Engineer" width="100%" />
-
-  <br/>
-
-  <a href="https://www.linkedin.com/in/hamza-lazaar-19330a329">
-    <img src="https://img.shields.io/badge/LinkedIn-006D77?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
-  </a>
-  <a href="https://lazaar.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-071A22?style=for-the-badge&logo=google-chrome&logoColor=83C5BE" alt="Visit my portfolio" />
-  </a>
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Open to software engineering opportunities" />
+  <img src="./assets/hero-banner.svg" alt="Hamza Lazaar — Software Development & Business Applications" width="100%" />
 </div>
 
-## Hello, I'm Hamza 👋
+# Hamza Lazaar
 
-I'm a **software engineer with a full-stack background**, specializing in **Java/Spring Boot** and **React/TypeScript**. I build secure APIs, modernize business-critical applications, and develop reliable user experiences supported by automated testing.
+**Software Engineer | Software Development & Business Applications**
 
-I recently earned my engineering degree in **Computer Science (Génie Informatique)** from **ENSA Agadir**, after completing my end-of-studies internship at **VOID Agency** in Casablanca in July 2026.
+[Portfolio](https://lazaar.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hamza-lazaar1) · Casablanca, Morocco
 
-`📍 Casablanca, Morocco` · `💼 Open to opportunities` · `🎓 Software Engineer — ENSA Agadir` · `🌍 French C2 & Advanced English`
+I am an ENSA Agadir engineering graduate with a full-stack background in **Java/Spring Boot and React/TypeScript**. My work connects business rules, application development, data and testing.
 
-## Engineering highlights
+I currently work as a **junior technical-functional consultant at Perenity Software**, where I am building knowledge of financial applications and asset-management processes. My onboarding includes Oracle SQL exercises, financial calculations and technical and functional presentations.
 
-| | |
-| :--- | :--- |
-| **2 enterprise HR workflows modernized** | Rebuilt from a legacy J2EE application using Spring Boot and React |
-| **3 professional internships** | Experience at VOID Agency, Royal Air Maroc, and Ralydev Technology |
-| **End-to-end development** | Backend APIs, frontend applications, access control, and automated tests |
-| **Quality-focused engineering** | JUnit, Mockito, Vitest, Playwright, and SonarQube |
+## What I bring
 
-## Selected work
+- **Business application modernization:** reverse-engineering existing rules and implementing workflows, calculations and access controls.
+- **Software development:** Spring Boot APIs, React interfaces, authentication and automated tests.
+- **SQL and data analysis:** querying business data and interpreting results in their functional context.
+- **A growing financial domain foundation:** securities transactions, portfolio valuation, acquisition cost and realized/unrealized gains and losses.
 
-### Enterprise HR Process Modernization
+## Experience
 
-<img src="./assets/project-modernization.svg" alt="Enterprise HR process modernization architecture" width="100%" />
+### Perenity Software - Junior Technical-Functional Consultant
 
-**VOID Agency · Barid Al-Maghrib · End-of-studies internship · 2026**
+**October 2026 – present · Casablanca**
 
-Modernized two business-critical HR processes from a legacy J2EE monolith to **Spring Boot and React**, while preserving the existing Oracle schema and PL/SQL procedures.
+Currently in training on financial applications and business processes. Training work includes:
 
-Reverse-engineered complex calculation rules, rebuilt hierarchical approval workflows, implemented traceability, and managed authentication and authorization with Keycloak.
+- Oracle SQL queries on securities positions, prices, cash movements and valuation history.
+- An Excel calculator covering FIFO and weighted-average acquisition cost and gains/losses.
+- Presentations explaining transactions and calculation methods.
 
-`Java 21` `Spring Boot 3` `React` `TypeScript` `Oracle` `PL/SQL` `Keycloak`
+### VOID Agency - HR Process Modernization for Barid Al-Maghrib
 
-> 🔒 Private enterprise project — source code and business data are confidential.
+<img src="./assets/project-modernization.svg" alt="HR process modernization architecture" width="100%" />
 
----
+**Final-year internship · February-July 2026 · Casablanca**
+
+Modernized two HR processes, overtime and travel allowances, from a Java EE monolith to **Spring Boot 3 and React/TypeScript**, retaining the Oracle database.
+
+- Reverse-engineered calculation rules, caps, access rights and hierarchical approvals.
+- Implemented workflows, traceability, batch processing and PDF exports.
+- Built unit and integration tests, complemented by end-to-end and performance tests; backend coverage exceeded 80%.
+- Used Prometheus and Grafana for observability.
+
+**Java · Spring Boot · React · TypeScript · Oracle · JUnit · Mockito**
+
+Enterprise source code and business data are confidential.
+
+## Selected projects
 
 ### Badge & Airport Access Management
 
-<img src="./assets/project-airport.svg" alt="Airport badge and identity access management system" width="100%" />
+<img src="./assets/project-airport.svg" alt="Airport badge and access management application" width="100%" />
 
 **Royal Air Maroc · Application internship · 2025**
 
-Built a full-stack application for badge and airport-access management, with dedicated administrator and employee experiences. Implemented authentication and role-based access control through Keycloak.
+A full-stack application covering employee badges, time-bounded airport access and requests, with separate administrator and employee experiences. Built with Spring Boot, React/TypeScript, PostgreSQL and Keycloak.
 
-`Spring Boot` `React` `PostgreSQL` `Keycloak`
+[Backend](https://github.com/hamza-lzr/badgesApp) · [Frontend](https://github.com/hamza-lzr/badges-app-frontend)
 
-> **Source code:** [Frontend](https://github.com/hamza-lzr/badges-app-frontend) · [Backend](https://github.com/hamza-lzr/badgesApp)
+### Dirham o Sserf
 
----
+**Personal project**
 
-### Full-Stack Web Platform
+A React currency converter designed around Moroccan usage: foreign currencies, dirhams, ryals and francs. Features include API integration, cached rates, offline estimates, freshness indicators and accessibility support.
 
-<img src="./assets/project-ralydev.svg" alt="Ralydev public website, client portal, and administrative back office" width="100%" />
+[Repository](https://github.com/hamza-lzr/dirham-app)
 
-**Ralydev Technology · PFA internship · 2025**
+### Ralydev Web Platform
 
-Developed a platform combining a public-facing website, a JWT-secured client portal, and an administrative back office for content management and request tracking.
+<img src="./assets/project-ralydev.svg" alt="Ralydev website, client portal and administrative back office" width="100%" />
 
-`Java` `Spring Boot` `React` `JWT`
+**Ralydev Technology · Academic internship · 2025**
 
-> 🔒 Internship project — source code is not publicly available.
+A public website, JWT-secured client portal and administrative back office, built with Spring Boot, React/TypeScript and PostgreSQL. Features include content management and customer-request tracking.
 
-## Core toolkit
+Internship project; source code is not publicly available.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Backend & APIs</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-      <img src="https://img.shields.io/badge/REST_APIs-006D77?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>Frontend</strong><br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Data & Security</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>Testing & Delivery</strong><br/><br/>
-      <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-  </tr>
-</table>
+## Technical foundation
 
-## What I care about
+| Area | Technologies and practice |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Data JPA/Hibernate, REST APIs |
+| Frontend | React, TypeScript, Tailwind CSS |
+| Data | Oracle SQL, PostgreSQL |
+| Security | Spring Security, Keycloak, OAuth2/OIDC, JWT, role-based access |
+| Testing | JUnit 5, Mockito, Vitest, Playwright, k6, SonarQube |
+| Tools and observability | Git, Maven, Docker, Linux, Swagger, Prometheus, Grafana |
 
-- Designing clear boundaries between domain logic, APIs, and user interfaces
-- Making security and authorization part of the architecture—not an afterthought
-- Using automated tests and static analysis to ship with confidence
-- Understanding existing systems before replacing or modernizing them
+## How I approach a problem
 
-<div align="center">
-  <br/>
-  <strong>Interested in building reliable products with thoughtful engineering?</strong>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/hamza-lazaar-19330a329">
-    <img src="https://img.shields.io/badge/Let's_connect-006D77?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn" />
-  </a>
-  <br/><br/>
-  <sub>Casablanca, Morocco · Open to backend and full-stack software engineering opportunities</sub>
-</div>
+1. Understand the process and the expected business result.
+2. Make the rules explicit and inspect the relevant data.
+3. Implement or configure the solution within my scope.
+4. Verify the result with representative cases and document the outcome.
+
+**Languages:** Arabic (native), French (C2 TCF), English (advanced).
+
+[View my work](https://lazaar.netlify.app) · [Get in touch](https://www.linkedin.com/in/hamza-lazaar1)
+
